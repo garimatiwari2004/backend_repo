@@ -1,3 +1,7 @@
+## Loom Link:
+
+- https://www.loom.com/share/64b49348ac7a438fbdda78a2acfa9d39
+
 ## Task:
 
 ### Implement an API endpoint for the scenario below:
